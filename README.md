@@ -9,8 +9,6 @@ Para quem não consegue se concentrar muito bem nos estudos, aqui vai uma dica �
 
 [Dica de concentração](https://www.youtube.com/watch?v=cgsFvuqS7LM)
 
-Não se esqueça de respirar durante o processo
-
 [Respiração Diafragmática](https://www.youtube.com/watch?v=Mu39nw6R0Lk)
 
 [Mapas Mentais para Estudos](https://www.youtube.com/watch?v=gQo5dtMND9s)
