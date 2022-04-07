@@ -1,5 +1,14 @@
-# primeiro projeto sobre Git/GitHub da DIO
+# Primeiro Projeto Sobre Git/GitHub da DIO
 Repositório para o desafio de projeto 1.
 
 ## links úteis
 [Sintaxe Basica Markdown](https://github.com/est3ves/primeiro-projeto.git)
+
+# Plano excelente para focar nos estudos!
+Para quem não consegue se concentrar muito bem nos estudos, aqui vai uma dica ótima:
+
+[Sintaxe Basica Markdown](https://www.youtube.com/watch?v=cgsFvuqS7LM)
+
+Não se esqueça de respirar durante o processo
+
+[Sintaxe Basica Markdown](https://www.youtube.com/watch?v=Mu39nw6R0Lk)
