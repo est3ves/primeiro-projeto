@@ -7,8 +7,10 @@ Repositório para o desafio de projeto 1.
 # Plano excelente para focar nos estudos!
 Para quem não consegue se concentrar muito bem nos estudos, aqui vai uma dica ótima:
 
-[Sintaxe Basica Markdown](https://www.youtube.com/watch?v=cgsFvuqS7LM)
+[Dica de concentração](https://www.youtube.com/watch?v=cgsFvuqS7LM)
 
 Não se esqueça de respirar durante o processo
 
-[Sintaxe Basica Markdown](https://www.youtube.com/watch?v=Mu39nw6R0Lk)
+[Respiração Diafragmática](https://www.youtube.com/watch?v=Mu39nw6R0Lk)
+
+[Mapas Mentais para Estudos](https://www.youtube.com/watch?v=gQo5dtMND9s)
